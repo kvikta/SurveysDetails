@@ -3,7 +3,7 @@
     "surveys": [
       {
         "surveyId": "1",
-        "surveyCategory": "Surveyiss",
+        "surveyCategory": "SurveyPesa",
         "surveyPaid": false,
         "surveyAmount": 93,
         "surveyQuestions": [
